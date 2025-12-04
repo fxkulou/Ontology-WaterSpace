@@ -1,0 +1,15 @@
+本仓库文件对应于某论文（投稿中）所使用数据。
+
+数据文件包括：
+1.本体建模文件（NRFFM_20231216.EAP），该文件可以使用Enterprise Architect软件打开。模型内部结构如图Structure所示包括如下几个部分：
+    ·ISO 19152:2012 Land Administration Domain Model 土地管理域模型，该模型用于建模参考；
+    ·NRFFM建模包，该包用于自然资源全要素统一概念模型建模（对应论文《自然资源全要素概念模型构建》——发表于中国土地科学）。NRFFM内新建有水体空间包，该包内容对应于水体空间建模内容；
+    ·NRUM建模包，该包为自然资源全要素模型的英文版（对应论文《Object Analysis and 3D Spatial Modelling for Uniform Natural Resources in China》——发表于Land)；
+    ·Old_Basic，被淘汰的基础概念；
+    ·Old_RRR，被淘汰的RRR概念；
+    ·Sample，基于当前概念模型建立的多个实例（当前为7个）。
+2.河流绘制示意图.skp。该文件为多种内陆淡水水体空间的利用形态立体绘制示意图。
+3.新疆塔什库尔干河流域数据包。（该数据包含含原始数据、过程数据和结果数据）
+    ·原始数据：
+    ·过程数据：
+    ·结果数据：
