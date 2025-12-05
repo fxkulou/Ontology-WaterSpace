@@ -1,6 +1,8 @@
 # Ontology-WaterSpace
 # 本仓库文件对应于某论文（投稿中）所使用数据。
 
+数据使用遵循CC BY 4.0许可，用于非商业研究。
+
 数据文件包括：
 
 1.本体建模文件（NRFFM_20231216.EAP），该文件可以使用Enterprise Architect软件打开。模型内部结构如图Structure所示包括如下几个部分：
